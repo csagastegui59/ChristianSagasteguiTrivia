@@ -15,12 +15,6 @@ colors = {
 }
 
 questions = {
-    0: {
-        "question": "¿Quién fue el creador de windows?",
-        "answer": "Bill Gates",
-        "options":
-        ["Bill Gates", "Billy Gates", "Bill Dates", "Billy Bill Gate"]
-    },
     1: {
         "question":
         "¿Quién fue el creador de Linux?",
